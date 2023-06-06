@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="5" failures="1" name="com.bestbuy.bestbuyinfo.CURDTestWithSteps" skipped="0" tests="10" time="4.14" timestamp="2023-06-06T15:26:16.871+01:00[Europe/London]"><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Get all Products"/><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Create new Product"/><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Verify new product's created in application"/><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Update the product and verify the product information is updated"/><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Delete the product and verify if the product is deleted"><failure message="1 expectation failed.&#10;Expected status code &lt;204&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;204&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;204&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.bestbuyinfo.CURDTestWithSteps.test05(CURDTestWithSteps.java:67)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Get all Stores"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.bestbuy.bestbuyinfo.CURDTestWithSteps.test06(CURDTestWithSteps.java:75)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Create new Store"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.bestbuy.bestbuyinfo.CURDTestWithSteps.test07(CURDTestWithSteps.java:82)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Verify new store's created in application"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.bestbuy.bestbuyinfo.CURDTestWithSteps.test08(CURDTestWithSteps.java:89)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Update the store and verify the product information is updated"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.bestbuy.bestbuyinfo.CURDTestWithSteps.test09(CURDTestWithSteps.java:99)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestbuyinfo.CURDTestWithSteps" name="Delete the store and verify if the product is deleted"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.bestbuy.bestbuyinfo.CURDTestWithSteps.test10(CURDTestWithSteps.java:109)&#13;
+</system-err></testcase></testsuite>

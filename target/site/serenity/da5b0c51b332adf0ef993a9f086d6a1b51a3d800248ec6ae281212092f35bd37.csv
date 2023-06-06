@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CURD test with steps","Delete the product and verify if the product is deleted","FAILURE","2023-06-06T15:26:20.961+01:00[Europe/London]","0.0","0.06"

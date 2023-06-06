@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CURD test with steps","Delete the product and verify if the product is deleted","FAILURE","2023-06-06T15:26:20.961+01:00[Europe/London]","0.0","0.06"
+"CURD test with steps","Get all Stores","ERROR","2023-06-06T15:26:21.032+01:00[Europe/London]","0.0","0.01"
+"CURD test with steps","Create new Store","ERROR","2023-06-06T15:26:21.040+01:00[Europe/London]","0.0","0.0"
+"CURD test with steps","Verify new store's created in application","ERROR","2023-06-06T15:26:21.045+01:00[Europe/London]","0.0","0.0"
+"CURD test with steps","Update the store and verify the product information is updated","ERROR","2023-06-06T15:26:21.049+01:00[Europe/London]","0.0","0.0"
+"CURD test with steps","Delete the store and verify if the product is deleted","ERROR","2023-06-06T15:26:21.053+01:00[Europe/London]","0.0","0.0"

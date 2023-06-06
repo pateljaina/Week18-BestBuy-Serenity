@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CURD test with steps","Get all Products","SUCCESS","2023-06-06T15:26:16.871+01:00[Europe/London]","0.0","2.92"
+"CURD test with steps","Create new Product","SUCCESS","2023-06-06T15:26:19.809+01:00[Europe/London]","0.0","0.36"
+"CURD test with steps","Verify new product's created in application","SUCCESS","2023-06-06T15:26:20.171+01:00[Europe/London]","0.0","0.55"
+"CURD test with steps","Update the product and verify the product information is updated","SUCCESS","2023-06-06T15:26:20.717+01:00[Europe/London]","0.0","0.24"
